@@ -17,7 +17,7 @@ useEffect(()=>{
     return()=>{
       console.log("unmount");
     }
-  },[] ;)
+  },[] );
 
 
 
